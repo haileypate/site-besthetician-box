@@ -102,7 +102,17 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    background-image: url('../img/background.png');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: initial;
+}   
+.pretty-letters {
+    font-family: 'Bilbo Swash Caps', cursive;
+}
 
 
 
