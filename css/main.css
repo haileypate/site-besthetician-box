@@ -109,9 +109,16 @@ body {
     background-repeat: no-repeat;
     background-position-x: center;
     background-position-y: initial;
+    text-align: center;
+
 }   
 .pretty-letters {
     font-family: 'Bilbo Swash Caps', cursive;
+}
+
+img {
+    vertical-align: middle;
+    margin-top: 150px;
 }
 
 
